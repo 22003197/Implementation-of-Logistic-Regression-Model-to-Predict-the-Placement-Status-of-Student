@@ -14,7 +14,6 @@ To write a program to implement the the Logistic Regression Model to Predict the
 4. Using logistic regression find the predicted values of accuracy , confusion matrices.
 
 ## Program:
-```
 /*
 Program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
 Developed by: 212222220044
